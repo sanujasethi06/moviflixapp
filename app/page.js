@@ -6,7 +6,7 @@ const Page = () => {
   return (
    
    <div>
-     <Herosection title={"LET\'S WATCH MOVIE TOGETHER"}  imageUrl = "/home.svg"/>
+     <Herosection title={"LET&apos;S WATCH MOVIE TOGETHER"}  imageUrl = "/home.svg"/>
     </div>
   )
 }
