@@ -1,0 +1,4 @@
+curl --request GET \
+	--url 'https://netflix54.p.rapidapi.com/search/?query=stranger&offset=0&limit_titles=50&limit_suggestions=20&lang=en' \
+	--header 'X-RapidAPI-Host: netflix54.p.rapidapi.com' \
+	--header 'X-RapidAPI-Key: 82f6410e27msh71784deeed8180dp1317d6jsne80ab348fb4a'
